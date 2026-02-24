@@ -13,4 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 O Escritório é um projeto estratégico idealizado pela Pró-reitoria de Integração e Desenvolvimento Institucional e integra a revisão do PDI 2022-2026. 
 A necessidade ficou mais latente a partir do trabalho da Comissão que elaborou o Plano Estratégico para Permanência e Êxito.
 
-oficialmente o escritório foi criado através da [portaria nº 176](https://boletim.sigepe.gov.br/publicacao/detalhar/318150), de 18 de dezembro de 2024.
+
+oficialmente o escritório foi criado através da [portaria nº 1765](https://boletim.sigepe.gov.br/publicacao/detalhar/318150), de 18 de dezembro de 2024.
