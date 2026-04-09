@@ -16,6 +16,9 @@ padding: 15px;
 margin-bottom: 10px;
 background-color: #f9f9f9;
 border-radius: 5px;
+justify-content: center;
+align-items: center;
+text-align: center;
 flex: 1; /* Para que as caixas ocupem espaço igual */
 }
 .info-tiles-container {
@@ -43,6 +46,14 @@ margin-bottom: 20px;
 <div class="info-tile">
 <h3>Destaque 3</h3>
 <p>Mais detalhes do conteúdo.</p>
+
+</div>
+</div>
+
+</div>
+<div class="info-tile">
+<h3>Painel Perfil do Estudante</h3>
+<iframe width="1600" height="800" src="https://lookerstudio.google.com/embed/reporting/18fac874-1714-4360-adcf-66b4b6045ed7/page/1p1rF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 </div>
 </div>
